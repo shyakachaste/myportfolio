@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants"
-
+import heroPic from "../assets/chastepic.jpeg";
 
 const Hero = () => {
   return (
@@ -15,6 +15,12 @@ const Hero = () => {
                  </span>
                  <p className="my-1 max-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</p>
                </div>
+            </div>
+
+            <div className="w-full lg:w-1/2 lg:p-8">
+              <div className="flex justify-center">
+                <img src={heroPic} alt="Hero Picture"/>
+              </div>
             </div>
         </div>
     </div>

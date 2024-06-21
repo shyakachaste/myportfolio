@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I'm a front-end developer with 3 years of experience. I build strong and scalable web apps using JavaScript, CSS, React, and TypeScript. I aim to create smart solutions that help businesses grow and make users happy. I love turning ideas into real, user-friendly web applications. I'm passionate about coding and always eager to learn new things. I enjoy working in a team and solving problems together.`;
+export const HERO_CONTENT = `I'm a front-end developer with 3 years of experience. I build strong and scalable web apps using JavaScript, CSS, React, and TypeScript. I love turning ideas into real, user-friendly web applications. I'm passionate about coding and always eager to learn new things. I enjoy working in a team and solving problems together.`;
 
 export const EXPERIENCES = [
   {

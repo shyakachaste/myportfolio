@@ -33,32 +33,51 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Blog With Chaste",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "I made a blog where you can read about TypeScript, ReactJS, NextJS, TailwindCSS, Supabase, Supabase Auth, and ShadCN UI. Join me and boost your skills with easy-to-follow guides and practical advice.",
+    technologies: ["Typescipt", "Next.js", "React.js", "Tailwind.css", "Supabase"],
+    visit: "https://github.com/shyakachaste/Blog-With-Chaste",
+    source: "https://www.shyakachaste.tech/"
   },
   {
-    title: "Task Management App",
+    title: "Musician Website",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "The website is designed to provide fans and visitors with a seamless and immersive experience to explore Element's music, biography, and upcoming events.",
+    technologies: ["HTML", "CSS", "JS"],
+    visit: "https://github.com/shyakachaste/musician-website",
+    source: "https://eleeeh.netlify.app/"
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "My personal portfolio website showcasing projects, skills, and contact information.",
+    technologies: ["TailWind CSS", "React","JS"],
+    visit: "https://github.com/shyakachaste/myportfolio",
+    source: "http://shyakachaste.me/"
   },
   {
-    title: "Blogging Platform",
+    title: "Face Detection",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      " C++ program for face detection using OpenCV. The program captures video from a camera and uses Haar cascades for face detection.",
+    technologies: ["C++", "OpenCV"],
+    visit: "https://github.com/shyakachaste/facedetection",
+    source: ""
+
+  },
+  {
+    title: "Face Detection",
+    image: project4,
+    description:
+      " C++ program for face detection using OpenCV. The program captures video from a camera and uses Haar cascades for face detection.",
+    technologies: ["C++", "OpenCV"],
+    visit: "https://github.com/shyakachaste/facedetection",
+    source: ""
+
   },
 ];
 

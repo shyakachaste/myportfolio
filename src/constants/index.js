@@ -8,31 +8,26 @@ export const HERO_CONTENT = `I'm a front-end developer with 3 years of experienc
 export const EXPERIENCES = [
   {
     year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    role: "Founder & CEO",
+    company: "Youth Code Camp",
+    description: `I started and run Youth Code Camp. Our goal is to help young people learn about technology. We do this by creating projects and working together. We teach young people how to program, help them be creative, and show their projects. I lead the team to make sure we achieve our mission. We want to give young people chances to learn useful skills and help their communities. I manage the daily work, plan for the future, and try to grow our programs. I also work with schools, community groups, and businesses to make our programs reach more people and do more good.`,
+    technologies: ["JS", "C++", "CSS", "HTML"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "March - 2023",
+    role: "Competition participant",
+    company: "Pico Ctf",
+    description: `Participated in the PicoCTF cybersecurity competition as a member of Team called Cybers, ranking
+                  4th in Rwanda and 16th in Africa. Collaborated with team members to solve various cybersecurity
+                  challenges and enhance practical skills in the field. This position was voluntary.`,
+    technologies: ["Penetration Testing", "Ethicak Hacking", "CTF"],
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "2023 - present",
+    role: "Fronted Developer",
+    company: "Audemy",
+    description: ` I have been working as a frontend developer at Audemy, an educational platform for blind and visually impaired students. I help build and maintain the Audemy website, making sure it is easy to use and accessible for everyone. `,
+    technologies: ["HTML", "CSS", "JS", "SASS"],
   },
 ];
 

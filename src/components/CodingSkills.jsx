@@ -39,6 +39,7 @@ const CodingSkills = () => {
           <div className="rounded-2xl border-4 border-neutral-800 p-4">
             <SiCplusplus  className="text-7xl text-blue-600"/>
           </div>
+          
           <div className="rounded-2xl border-4 border-neutral-800 p-4">
             <SiJavascript  className="text-7xl text-yellow-400"/>
           </div>

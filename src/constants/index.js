@@ -1,7 +1,9 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/project-1.png";
+import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
+import project6 from "../assets/projects/project-6.png";
 
 export const HERO_CONTENT = `I'm a front-end developer with 3 years of experience. I build strong and scalable web apps using JavaScript, CSS, React, and TypeScript. I love turning ideas into real, user-friendly web applications. I'm passionate about coding and always eager to learn new things. I enjoy working in a team and solving problems together.`;
 
@@ -70,19 +72,29 @@ export const PROJECTS = [
 
   },
   {
-    title: "Face Detection",
-    image: project4,
+    title: "Inspire Mate Bot",
+    image: project5,
     description:
-      " C++ program for face detection using OpenCV. The program captures video from a camera and uses Haar cascades for face detection.",
-    technologies: ["C++", "OpenCV"],
-    visit: "https://github.com/shyakachaste/facedetection",
+      " Inspire Mate Bot is a Discord bot designed to bring inspiration, motivation, and positive vibes to your Discord server.",
+    technologies: ["Python", "Flask"],
+    visit: "https://github.com/shyakachaste/InspireMateBot",
     source: ""
+
+  },
+  {
+    title: "Youth Code Camp",
+    image: project6,
+    description:
+      "Welcome to the Youth Code Camp Hackathon! This event is designed to bring together young programmers for a day of collaborative coding and innovation.",
+    technologies: ["CSS", "JS" , "HTML", "SASS"],
+    visit: "https://github.com/Youth-codecamp/YouthCodeCampHackaton",
+    source: "https://youthcodecamp.net/"
 
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Jabana, Gasabo , Kigali, Rwanda",
+  phoneNo: "+250 789651172",
+  email: "shyakachaste1@gmail.com",
 };
